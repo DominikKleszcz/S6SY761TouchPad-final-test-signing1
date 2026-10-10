@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/S6SY761Touch/ARM64/Debug/S6SY761Touch.tlog
+/S6SY761Touch/ARM64/Debug
+/.vs/S6SY761Touch/FileContentIndex
+/.vs/S6SY761Touch/v16
+/ARM64/Debug
